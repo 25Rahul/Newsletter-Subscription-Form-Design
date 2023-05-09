@@ -1,4 +1,6 @@
-# MultiChat-Application
+# Responsive-Newsletter-Subscription-Form-Design
 
-Computer Networks Mini Project
-|CONCEPT - Socket Programming 
+## More Website Development Content Visit [RustcodeWeb](https://www.rustcodeweb.com/)
+
+### Responsive Newsletter Subscription Form Design | HTML And CSS
+[Youtube Video](https://youtu.be/znHML3oAJUs)
